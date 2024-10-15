@@ -1,7 +1,7 @@
 - 👋 Meu nome é Karen :)
 - 👀 Estou interessada em compartilhar meus projetos.
 - 🌱 Atualmente estou aprendendo a programar 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ .
 - 📫 Pode entrar em contato comigo me mandando um e-mail: ribeiro.silva.karen@escola.pr.gov.br
 - 😄 
 - ⚡ uma curiosidade sobre mim é que adoro plantas.
